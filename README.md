@@ -1,5 +1,5 @@
 # docker-hadoop
-Run a local docker container quickly for tests 
+Run a local HDFS container quickly for tests 
 
 ```
 $ chmod +x start.sh 
